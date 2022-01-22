@@ -1,0 +1,4 @@
+IDEA OF THIS REPO IS TO TEST OUT FLASHTEXT LIBRARY AS A PRECURSOR TO
+USING IT IN MORE PRACTICAL SCENARIOS
+
+https://flashtext.readthedocs.io/en/latest/index.html
